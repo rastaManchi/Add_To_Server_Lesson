@@ -15,7 +15,7 @@ https://desktop.github.com/download/ - GitHub Desctop
 ```
 # 💻 Установка Git
 ```bash
-apt install git      # установка gi
+apt install git                                     # установка git
 ssh-keygen -t ed25519 -C "your_email@example.com"   # Создание SSH ключа
 eval "$(ssh-agent -s)"                              # Запуск SSH-агента
 ssh-add ~/.ssh/id_ed25519                           # Добавление ключа
