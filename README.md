@@ -11,7 +11,7 @@ sudo apt upgrade     # Установить обновления
 ```
 # Github Desktop
 ```Links
-https://desktop.github.com/download/ - GitHub Desctop
+https://desktop.github.com/download/
 ```
 # 💻 Установка Git
 ```bash
