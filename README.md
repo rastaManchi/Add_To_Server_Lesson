@@ -9,7 +9,7 @@
 sudo apt update      # Скачать обновления списка пакетов
 sudo apt upgrade     # Установить обновления
 ```
-#Github Desktop
+# Github Desktop
 ```Links
 https://desktop.github.com/download/ - GitHub Desctop
 ```
