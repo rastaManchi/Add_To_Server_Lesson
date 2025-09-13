@@ -1,10 +1,18 @@
 # Add_To_Server_Lesson
 
+# 🚀 Быстрый старт с Git и GitHub
 
-sudo apt update - Скачать обновления<br>
-sudo apt upgrade - Установить обновления<br>
-<br>
-https://desktop.github.com/download/ - GitHub Desctop<br>
+Этот гайд поможет установить Git, настроить SSH-ключи и начать работать с репозиториями.
+
+---
+
+## 🔧 Обновление системы
+```bash
+sudo apt update      # Скачать обновления списка пакетов
+sudo apt upgrade     # Установить обновления
+```
+
+```https://desktop.github.com/download/ - GitHub Desctop```
 <br>
 apt install git - установка git<br>
 ssh-keygen -t ed25519 -C "your_email@example.com" - Создание SSH ключа<br>
